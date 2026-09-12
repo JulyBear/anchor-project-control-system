@@ -1,0 +1,18 @@
+schema_version: "1.0"
+system: "ANCHOR"
+system_version: "1.0"
+project: "REPLACE_WITH_PROJECT_NAME"
+phase: "discovery"
+status: "not-started"
+current_objective: "填写项目目标、边界和首个可验证工作单元"
+active_item: "INIT-001"
+next_action: "由人类填写 state.yaml，并使用 templates/ 创建首个需求"
+blocked_by: []
+baseline:
+  name: "unapproved"
+  status: "draft"
+  approved_by: null
+last_verified_commit: null
+last_verified_at: null
+last_verification: null
+updated_at: "YYYY-MM-DD"
